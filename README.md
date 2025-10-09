@@ -10,8 +10,6 @@
 <ul>
   <li><a href="#visão-geral">Visão Geral</a></li>
   <li><a href="#scripts-disponíveis">📂 Scripts Disponíveis</a></li>
-  <li><a href="#instalação">⚙️ Instalação</a></li>
-  <li><a href="#como-executar">🚀 Como Executar</a></li>
   <li><a href="#contribuição">🤝 Contribuição</a></li>
 
   <li><a href="#contato">📬 Contato</a></li>
